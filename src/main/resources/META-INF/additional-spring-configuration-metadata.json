@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "spring.file",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.file'"
+  },
+  {
+    "name": "spring.logging",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.logging'"
+  },
+  {
+    "name": "spring.pattern.console",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.pattern.console'"
+  },
+  {
+    "name": "spring.level.org.springframework.web",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.level.org.springframework.web'"
+  },
+  {
+    "name": "spring.pattern.file",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.pattern.file'"
+  },
+  {
+    "name": "spring.level.com.stackroute.controllers",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.level.com.stackroute.controllers'"
+  },
+  {
+    "name": "spring.level.org.hibernate",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.level.org.hibernate'"
+  }
+]}
