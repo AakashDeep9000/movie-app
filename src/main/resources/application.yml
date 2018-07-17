@@ -2,9 +2,9 @@ spring:
  logging:
  file: logs/dev_app.log
  pattern:
-   console: "%d %-5level %logger : %msg%n"
-   file: "%d %-5level [%thread] %logger : %msg%n"
+  console: "%d %-5level %logger : %msg%n"
+  file: "%d %-5level [%thread] %logger : %msg%n"
  level:
-   org.springframework.web: DEBUG
-   com.stackroute.controllers: DEBUG
-   org.hibernate: DEBUG
+  org.springframework.web: DEBUG
+  com.stackroute.controllers: DEBUG
+  org.hibernate: DEBUG
